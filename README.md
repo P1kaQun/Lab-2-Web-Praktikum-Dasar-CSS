@@ -19,6 +19,29 @@ Tujuan dari praktikum ini adalah untuk memperkenalkan dasar-dasar CSS kepada mah
 # Langkah-Langkah
 ## Langkah 1: Membuat Dokumen HTML
 Langkah pertama adalah membuat struktur dasar HTML seperti berikut:
+[Uploading index.ht<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS Dasar</title>
+</head>
+<body>
+    <header>
+        <h1>CSS Internal dan <i>Inline CSS</i></h1>
+    </header>
+    <nav>
+        <a href="lab2_css_dasar.html">CSS Dasar</a>
+        <a href="lab2_css_eksternal.html">CSS Eksternal</a>
+        <a href="lab1_tag_dasar.html">HTML Dasar</a>
+    </nav>
+    <div id="intro">
+        <h1>Hello World</h1>
+        <p>Kami sedang belajar HTML dan CSS dasar, pada mata kuliah Pemrograman Web.</p>
+        <a class="button btn-primary" href="#intro">Informasi selengkapnya</a>
+    </div>
+</body>
+</html>ml…]()
 
 ## Langkah 2: Menambahkan CSS Internal
 ## Langkah 3: Menambahkan CSS Inline
