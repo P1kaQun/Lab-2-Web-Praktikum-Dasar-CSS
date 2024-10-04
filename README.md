@@ -19,6 +19,7 @@ Tujuan dari praktikum ini adalah untuk memperkenalkan dasar-dasar CSS kepada mah
 # Langkah-Langkah
 ## Langkah 1: Membuat Dokumen HTML
 Langkah pertama adalah membuat struktur dasar HTML seperti berikut:
+
 ## Langkah 2: Menambahkan CSS Internal
 ## Langkah 3: Menambahkan CSS Inline
 ## Langkah 4: Menambahkan CSS Eksternal
